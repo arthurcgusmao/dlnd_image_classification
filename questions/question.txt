@@ -7,5 +7,3 @@ time I submitted the project but I'm not sure yet.
 
 Second point: how can the cost be dropping but the accuracy remain the same? I think this two
 stats should have some correlation, right? If I'm wrong, could you please explain why?
-
-Third point: 
