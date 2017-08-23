@@ -1,0 +1,11 @@
+I'm having trouble with the Image Classification Project. For some reason I cannot get the
+accuracy to go over 50%. Something very strange happens, as demonstrated in the print attached:
+after some number of iterations the accuracy drops to around 10% (like random guessing).
+
+First point: is my implementation of the print_stats function correct? I fixed it from the last
+time I submitted the project but I'm not sure yet.
+
+Second point: how can the cost be dropping but the accuracy remain the same? I think this two
+stats should have some correlation, right? If I'm wrong, could you please explain why?
+
+Third point: 
